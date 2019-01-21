@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: SurveyThis
-email: cyg5005@gmail.com
+email: survey.this.blog@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
  This blog is my sandbox for explaining and exploring survey methods. 
 baseurl: "/surveythis" # the subpath of your site, e.g. /blog
